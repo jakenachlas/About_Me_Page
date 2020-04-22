@@ -90,6 +90,37 @@ h1 {
     margin-bottom: 80px;
 }
 
+.uni-link {
+    /* color: #1a1a1a; */
+    color: #707070;
+    text-decoration: none;
+    transition: ease 0.2s;
+    border-bottom: 3px solid #FFE839;
+}
+
+.uni-link:link{
+    border-bottom: 3px solid #dc2430;
+    /* opacity: 70%; */
+
+    text-decoration: none;
+}
+
+.uni-link:hover {
+    color: #1a1a1a;
+}
+
+
+
+#func-text {
+    font-weight: bold;
+    color: #7b4397;
+}
+
+#form-text {
+    font-weight: bold;
+    color: #dc2430;
+}
+
 #why-design {
     color: #1a1a1a;
     font-size: 20px;
@@ -166,16 +197,6 @@ h4 {
     color: #707070;
     margin-bottom: 15px;
 }
-
-/* #email-intent-button {
-    color: #fff;
-    background: transparent linear-gradient(95deg, #7b4397 0%, #dc2430 100%) 0% 0% no-repeat padding-box;
-    box-shadow: 0px 0px 20px rgba(228, 55, 98, 0.5);
-    border: none;
-    border-radius: 2em;
-    padding: 13px 26px;
-    margin-bottom: 150px;
-} */
 
 
 
