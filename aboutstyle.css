@@ -99,9 +99,6 @@ h1 {
 }
 
 .uni-link:link{
-    border-bottom: 3px solid #dc2430;
-    /* opacity: 70%; */
-
     text-decoration: none;
 }
 
